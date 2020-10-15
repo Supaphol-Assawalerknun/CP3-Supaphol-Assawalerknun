@@ -1,0 +1,8 @@
+print("Operation Program")
+first = int(input("First Number: "))
+second = int(input("Second Number: "))
+print("---------Answer---------")
+print(first, "+", second, "=", first+second)
+print(first, "-", second, "=", first-second)
+print(first, "*", second, "=", first*second)
+print(first, "/", second, "=", first/second)
